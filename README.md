@@ -1,5 +1,5 @@
 # Hello World!, I'm Kaif, a Indian Web Developer 👋🏼:
-🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech
+🛜 currently working on my own [webpage](https://www.skill-set-app.vercel.app)<br>👨🏼‍🎓 Pursuing Bachelor of Computer Applications (BCA) at Indira Gandhi National Open University (IGNOU)<br>👨🏼‍💻  Aspiring developer, exploring the world of tech 
 
 
 # 💻 Tech Stack:
