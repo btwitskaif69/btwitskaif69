@@ -1,5 +1,6 @@
 # Hello World!, I'm Kaif, an Indian Web Developer 👋🏼:
-🛜 currently working on my on project [webpage](https://skill-set-app.vercel.app)<br>👨🏼‍🎓 Pursuing Bachelor of Computer Applications (BCA) at Indira Gandhi National Open University (IGNOU)<br>👨🏼‍💻  Aspiring developer, exploring the world of tech 
+🛜 currently working on my own project [**SkillSet**](https://skill-set-app.vercel.app){:target="_blank"}
+<br>👨🏼‍🎓 Pursuing Bachelor of Computer Applications (BCA) at Indira Gandhi National Open University (IGNOU)<br>👨🏼‍💻  Aspiring developer, exploring the world of tech 
 
 
 # 💻 Tech Stack:
