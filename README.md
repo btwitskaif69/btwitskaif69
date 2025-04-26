@@ -1,7 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Kaif, an Indian Web Developer 👋🏼:
-🛜 currently working on my project [skill set](https://skill-set-app.vercel.app)
+🛜 currently working on my project [skill set](https://btwitskaif.vercel.app)
 <br>👨🏼‍🎓 Pursuing Bachelor of Computer Applications (BCA) at Indira Gandhi National Open University (IGNOU)<br>👨🏼‍💻  Aspiring developer, exploring the world of tech 
 
 
